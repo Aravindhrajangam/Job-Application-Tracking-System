@@ -9,6 +9,9 @@ Readme - https://github.com/Aravindhrajangam/Job-Application-Tracking-System/blo
 Trailhead URLs
 
 Team Lead - https://trailblazer.me/id/aravindhrajangam
+
 Team Member 1- https://trailblazer.me/id/guruprasatht
+
 Team Member 2- https://trailblazer.me/id/palue
+
 Team Member 3- https://trailblazer.me/id/vishnurdm
