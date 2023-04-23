@@ -2,7 +2,7 @@
 
 Project Video - https://drive.google.com/file/d/1LENbBhRSyCOKuwYTrhlpX0MBQnub1NCS/view?usp=sharing
 
-project Report - JATS PROJECT REPORT.pdf
+project Report - https://github.com/Aravindhrajangam/Job-Application-Tracking-System/blob/5f855bad8cb5b00f08edb54adb54eb8e9c9d078f/JATS%20PROJECT%20REPORT.pdf
 
 Readme - https://github.com/Aravindhrajangam/Job-Application-Tracking-System/blob/23eccd0ac701da6d6062aefe13a4301972d44fff/JATS%20PROJECT%20REPORT.pdf
 
