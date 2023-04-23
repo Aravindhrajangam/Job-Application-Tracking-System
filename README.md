@@ -1,6 +1,6 @@
 # Job-Application-Tracking-System
 
-Project Video - https://drive.google.com/file/d/1LENbBhRSyCOKuwYTrhlpX0MBQnub1NCS/view?usp=drivesdk
+Project Video - https://drive.google.com/file/d/1LENbBhRSyCOKuwYTrhlpX0MBQnub1NCS/view?usp=sharing
 
 project Report - JATS PROJECT REPORT.pdf
 
